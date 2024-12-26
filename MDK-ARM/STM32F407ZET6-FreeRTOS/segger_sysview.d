@@ -1,0 +1,13 @@
+stm32f407zet6-freertos\segger_sysview.o: ..\Core\Src\SEGGER\SEGGER_SYSVIEW.c
+stm32f407zet6-freertos\segger_sysview.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32f407zet6-freertos\segger_sysview.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+stm32f407zet6-freertos\segger_sysview.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+stm32f407zet6-freertos\segger_sysview.o: ..\Core\Src\SEGGER\SEGGER_SYSVIEW_Int.h
+stm32f407zet6-freertos\segger_sysview.o: ..\Core\Src\SEGGER\SEGGER_SYSVIEW.h
+stm32f407zet6-freertos\segger_sysview.o: ..\Core\Src\SEGGER\SEGGER.h
+stm32f407zet6-freertos\segger_sysview.o: ..\Core\Src\SEGGER\Global.h
+stm32f407zet6-freertos\segger_sysview.o: ..\Core\Src\SEGGER\SEGGER_SYSVIEW_ConfDefaults.h
+stm32f407zet6-freertos\segger_sysview.o: ..\Core\Src\SEGGER\SEGGER_SYSVIEW_Conf.h
+stm32f407zet6-freertos\segger_sysview.o: ..\Core\Src\SEGGER\SEGGER_RTT_Conf.h
+stm32f407zet6-freertos\segger_sysview.o: ..\Core\Src\SEGGER\SEGGER_RTT.h
+stm32f407zet6-freertos\segger_sysview.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
